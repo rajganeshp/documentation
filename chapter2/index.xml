@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second chapter on Raj web site</title>
+    <link>http://example.org/chapter2/</link>
+    <description>Recent content in Second chapter on Raj web site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2019 01:53:09 +0330</lastBuildDate>
+    
+	<atom:link href="http://example.org/chapter2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installation1</title>
+      <link>http://example.org/chapter2/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/chapter2/installation/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>Next steps</title>
+      <link>http://example.org/chapter2/nextsteps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/chapter2/nextsteps/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+Import-Module Unisys.Stealth.EcoApi $MyClearTextUsername=’portaladmin’ $MyClearTextPassword=’Somepass1#’ $MyUsernameDomain=$MyClearTextUsername $SecurePassword=Convertto-SecureString –String $MyClearTextPassword –AsPlainText –force $MyCredentials=New-object System.Management.Automation.PSCredential $MyUsernameDomain,$SecurePassword $server = Connect-StealthServer -computername $computerName -TrustCert -Credential $MyCredentials while($true) { $elasticQuery = @&amp;quot; { &amp;quot;_source&amp;quot;: [ &amp;quot;winlog.</description>
+    </item>
+    
+  </channel>
+</rss>
